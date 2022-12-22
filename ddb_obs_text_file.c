@@ -69,10 +69,10 @@ static DB_misc_t plugin = {
     .plugin.descr = "Writes the current playing song to a text file (for OBS streams)",
     .plugin.copyright =         
         "OBS text file plugin for DeaDBeeF Player\n"
-        "Copyright (C) 2022\n"
+        "Copyright (C) 2022 vindowvipre\n"
         "\n"
         "This software is provided 'as-is', without any express or implied\n"
-        "warranty.  In no event will the authors be held liable for any damages\n"
+        "warranty. In no event will the authors be held liable for any damages\n"
         "arising from the use of this software.\n"
         "\n"
         "Permission is granted to anyone to use this software for any purpose,\n"
